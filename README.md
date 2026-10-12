@@ -1,6 +1,6 @@
 <h1 align="center">PhysForge: Material-Controllable 3D Reconstruction with Separable Components</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/arXiv-to_be_released-grey?logo=arxiv&amp;logoColor=white" alt="arXiv — to be released">
+  <a href="https://arxiv.org/abs/2610.13681"><img src="https://img.shields.io/badge/arXiv-2610.13681-b31b1b?logo=arxiv&amp;logoColor=white" alt="arXiv: 2610.13681"></a>
   <a href="https://masterwanna.github.io/PhysForge.html"><img src="https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
 </p>
 
